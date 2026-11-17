@@ -1,0 +1,16 @@
+# Зависимости и логи Node.js
+node_modules/
+npm-debug.log*
+*.log
+
+# Локальные переменные окружения
+.env
+
+# Черновые заметки, не для репозитория
+NOTES.md
+
+# Мусор ОС и редакторов
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

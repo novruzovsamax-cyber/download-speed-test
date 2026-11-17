@@ -1,0 +1,14 @@
+{
+  "name": "download-speed-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Консольный замер скорости скачивания: 10 последовательных запросов к одному адресу",
+  "type": "module",
+  "scripts": {
+    "start": "node speedtest.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
